@@ -1,3 +1,4 @@
+日本語での説明は[こちら](https://github.com/star114514-mit/shell-DiSpam/blob/main/README_jp.md)
 # shell-DiSpam
 This tool can be used to send spam on Discord from Linux.
 Dependencies are `xdotool` and `xclip`.
