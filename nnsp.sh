@@ -1,5 +1,5 @@
 #!/bin/bash
- read -p スパム文？： spam
+ read -p Spam text?： spam
 while true
 do
   #curl -o /tmp/aho.txt https://evilinsult.com/generate_insult.php
